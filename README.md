@@ -1,0 +1,1 @@
+# Kogane.PackageEmbedder
